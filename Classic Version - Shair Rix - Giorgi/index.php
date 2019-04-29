@@ -627,7 +627,7 @@
 		<canvas class="canvas" moz-opaque></canvas>
 	</div>
 	<script type="text/javascript" src="assets/js/quadtree.js?v=<?php echo rand();?>"></script>
-	<script type="text/javascript" src="assets/js/main_out______________________________.js?v=<?php echo rand();?>"></script>
+	<script type="text/javascript" src="assets/js/main_out.js?v=<?php echo rand();?>"></script>
 	<script type="text/javascript" src="server.js?v=<?php echo rand();?>"></script>
 
 </body>
